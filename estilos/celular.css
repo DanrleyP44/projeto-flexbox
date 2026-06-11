@@ -4,6 +4,16 @@ body {
   height: 100%;
 }
 
+.avatar,
+.bio {
+  width: 300px;
+}
+
+#eu {
+  height: 150px;
+  width: 125px;
+}
+
 main {
   flex-direction: column;
   height: auto;
