@@ -9,6 +9,10 @@ body {
   width: 300px;
 }
 
+.bio {
+  min-height: 400px;
+}
+
 #eu {
   height: 150px;
   width: 125px;
